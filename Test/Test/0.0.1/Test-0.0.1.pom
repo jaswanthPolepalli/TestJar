@@ -26,11 +26,7 @@
     <url>http://junit.cvs.sourceforge.net/junit/</url>
   </scm>
   <dependencies>
-           <dependency>
-             <groupId>org.seleniumhq.selenium</groupId>
-             <artifactId>selenium-java</artifactId>
-             <version>3.141.59</version>
-         </dependency>
+
 
   </dependencies>
 </project>
